@@ -1,0 +1,26 @@
+I1         80            3239               0 decreasing list
+M1         80             240               0 decreasing list
+I1       5000        12502499              37 decreasing list
+M1       5000           29804               0 decreasing list
+Q1       5000        12497500              65 decreasing list
+H1       5000           71486               1 decreasing list
+I1      50000      1250024999            3500 3.500 decreasing list
+M1      50000          382512               3 0.003 decreasing list
+I1      10000        50004999             129 0.129 decreasing list
+M1      10000           64608               0 0.000 decreasing list
+Q1      10000        49995000             235 0.235 decreasing list
+H1      10000          157880               0 0.000 decreasing list
+Q2      10000          161015               2 0.002 decreasing list
+Q3      10000         8364136              46 0.046 decreasing list
+I1      50000       626870746            1816 1.816 random list
+I1      50000       626870746            1806 1.806 random list
+I1      50000       626870746            1803 1.803 random list
+M1      50000          718209               5 0.005 random list
+Q1      50000          915474               8 0.008 random list
+H1      50000         1031091              11 0.011 random list
+Q2      50000          909948              12 0.012 random list
+Q3      50000          799821              10 0.010 random list
+I1    1000000        10499809              38 0.038 increasing list
+I1    3000000        91498229             295 0.295 increasing list
+I1    3000000        91498229             283 0.283 increasing list
+I1    5000000       252495049             784 0.784 increasing list
